@@ -1,16 +1,8 @@
 ---
 layout: blog
-title: Here is the title of the post
+title: 해골
 category: blog
-tags: [tags for the post, is here]  
-summary: Here is a summary of the post
+tags: [color, 해골]  
+summary: 설명
 image: /images/blog/KakaoTalk_Image_2019-10-10-15-57-52_009.jpeg
 ---
-
-This is a template with masonry to get the theme
-
-```
-git clone https://github.com/pasindud/jekyll-masonry-theme
-```
-
-Edit the _config.yml to change your settings
