@@ -32,13 +32,13 @@ background-repeat: repeat;*/
 }
 
 body, div, a, input, select, button, textarea {
-	font-family: 'TmonMonsori', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 14px;
 	color: #333333;
 }
 
 h1, h2, h3, h4, h5, h6 {
-	font-family: 'TmonMonsori', sans-serif;
+	font-family: 'Doppio One', sans-serif;
 	font-weight: 400;
 }
 
@@ -247,7 +247,7 @@ padding: 10px;
 
 blockquote{
 
-	font-family: TmonMonsori;
+	font-family: monospace;
 	font-size: 16px;
 	font-style: italic;
 	border-left: 4px solid #ddd;
