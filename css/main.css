@@ -46,7 +46,7 @@ a {
 /*	
 	color: rgba(80, 160, 228);
 	font-size: 100%;*/
-	color: #00A550;
+	color: #213c5b;
 	text-decoration: none;
 }
 
@@ -90,12 +90,12 @@ h1 {
 }
 
 #links a {
-	color: #D23636;
+	color: #213c5b;
 }
 
 #logo a {
     font-size: 40px;
-    color: #D23636;
+    color: #213c5b;
     text-decoration: none;
     font-family: "Doppio One";
 }
